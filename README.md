@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangoka&label=Profile%20views&color=828282&style=flat" alt="kangoka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangoka" alt="kangoka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangoka&theme=onedark" alt="kangoka" /></a> </p>
 
 - 🔭 I’m currently working on **Internal Porgram**
 
